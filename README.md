@@ -23,7 +23,7 @@ This repository contains:
 
 Install [Ruby Gems](https://rubygems.org/pages/download), a package management framework for Ruby.
 
-Install [Bundler](http://bundler.io/v1.3/rationale.html), which  we use to specify dependencies and ensure
+Install [Bundler](http://bundler.io/bundle_install.html), which  we use to specify dependencies and ensure
 a consistent environment for building the website, even across multiple developers on different machines:
 
     $ gem install bundler
